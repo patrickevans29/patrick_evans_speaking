@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'Montserrat';
-  src: url('/Users/patrickevans29/Documents/pj_coding/HTML_CSS_Codacademy/patrick_evans_speaking/resources/CSS/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+  src: url('/resources/CSS/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/Users/patrickevans29/Documents/pj_coding/HTML_CSS_Codacademy/patrick_evans_speaking/resources/CSS/Montserrat/static/Montserrat-Light.ttf') format('truetype');
+  src: url('/resources/CSS/Montserrat/static/Montserrat-Light.ttf') format('truetype');
   font-weight: light;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('/Users/patrickevans29/Documents/pj_coding/HTML_CSS_Codacademy/patrick_evans_speaking/resources/CSS/Montserrat/static/Montserrat-SemiBold.ttf') format('truetype');
+  src: url('/resources/CSS/Montserrat/static/Montserrat-SemiBold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
